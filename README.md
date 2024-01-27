@@ -2,8 +2,8 @@
 Rendering a 3D cube using OpenGL with shaders.
 
 <p align="center">
-   <a href="https://drive.google.com/file/d/1aDF1_hdMe1cX9Ox9OfCm7sYeaQTuSmai/preview">
-   <img src="https://drive.google.com/file/d/1aDF1_hdMe1cX9Ox9OfCm7sYeaQTuSmai/preview" style="width: 600px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+   <a href="https://drive.google.com/uc?export=view&id=1aDF1_hdMe1cX9Ox9OfCm7sYeaQTuSmai">
+   <img src="https://drive.google.com/uc?export=view&id=1aDF1_hdMe1cX9Ox9OfCm7sYeaQTuSmai" style="width: 600px; max-width: 100%; height: auto" title="Click to enlarge picture" />
  </p>
 
 ## Technologies Used
